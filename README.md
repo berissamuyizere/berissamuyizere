@@ -1,6 +1,6 @@
 ## Hi 👋 am Berissa
 
-##A Software Engineer
+## A Software Engineer
 
 Here are some ideas to get you started:
 
