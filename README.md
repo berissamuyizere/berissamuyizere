@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi 👋 am Berissa
 
-
-**berissamuyizere/berissamuyizere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##A Software Engineer
 
 Here are some ideas to get you started:
 
