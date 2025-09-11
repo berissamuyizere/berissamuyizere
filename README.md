@@ -3,7 +3,7 @@
 ## A Software Engineer
 
 [<img src="https://cdn-icons-png.freepik.com/512/3357/3357329.png" width="25">](https://www.freepik.com/icon/about_3357329)
-About:
+About
 ---
 
 Here are some ideas to get you started:
