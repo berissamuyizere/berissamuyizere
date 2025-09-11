@@ -8,7 +8,7 @@ About:
 
 Here are some ideas to get you started:
 
-- 📫 How to reach me: https://www.linkedin.com/in/muyizere-berissa-a3588a280/
+- 📫 How to reach me: [Link](https://www.linkedin.com/in/muyizere-berissa-a3588a280/)
 - 😄 Pronouns: she/her
 
 
